@@ -1,0 +1,6 @@
+Create an LLM application using Gemini fro coverting text into SQL queries.
+
+Process:
+1. Create new env and activate 
+2. Create requirements.txt
+
